@@ -51,7 +51,7 @@ javac -d bin src/oficina/*.java
 ```
 
 ### 3. Executar o Programa
-Execute a aplicação principal (Util.java, que contém o menu interativo) usando o classpath que aponta para a pasta de classes compiladas (`bin`):
+Execute a aplicação principal (que contém o menu interativo) usando o classpath que aponta para a pasta de classes compiladas (`bin`):
 ```bash
 java -cp bin oficina.Util
 ```
