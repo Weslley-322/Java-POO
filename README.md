@@ -39,8 +39,8 @@ Certifique-se de ter o [Java Development Kit (JDK) 8 ou superior](https://www.or
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [SEU_LINK_DO_REPOSITORIO]
-cd [NOME_DA_PASTA]
+git clone https://github.com/Weslley-322/Java-POO
+cd Java-POO
 ```
 
 ### 2. Compilar os Arquivos
